@@ -1,11 +1,11 @@
 # Site settings
-title: ITI Blog
-SEOTitle: ITI的博客 | ITI Blog
-header-img: img/home-bg.jpg
+title: ITI Hub
+SEOTitle: ITI的博客 | ITI Hub
+header-img: img/post-bg-kuaidi.jpg
 email: example@gmail.com
 description: "关于程序与设计、黑客与画家 | ITI，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @ITI 的个人博客，与你一起发现更大的世界。"
-keyword: "ITI, ITI, 鬼栈, ITI的博客, ITI Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "https://huangxuan.me"              # your host, for absolute URL
+keyword: "ITI, ITI, 鬼栈, ITI的博客, ITI Hub, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
+url: "https://itihub.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
