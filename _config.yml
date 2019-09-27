@@ -68,7 +68,7 @@ netease_comment: false
 
 # Analytics settings
 # Baidu Analytics 
-# ba_track_id: [your track id]
+ ba_track_id: deca6fe2a50eb92c87f6000393f7e762
 
 # Google Analytics
 ga_track_id: 'UA-148888100-1'            # Format: UA-xxxxxx-xx
@@ -78,7 +78,7 @@ ga_domain: auto
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
+sidebar-about-description: "For the next quantum leap<br>好风凭借力，送我上青云"
 sidebar-avatar: /img/avatar-iti-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -109,8 +109,8 @@ friends: [
         title: "乱序",
         href: "http://mida.re/"
     },{
-        title: "Sherry Wu",
-        href: "https://xuechundesign.github.io"
+        title: "Google Analytics",
+        href: "https://analytics.google.com"
     },{
         title: "Luke 的自留地",
         href: "http://hmqk1995.github.io"
